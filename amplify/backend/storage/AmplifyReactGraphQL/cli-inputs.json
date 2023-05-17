@@ -1,0 +1,14 @@
+{
+  "resourceName": "AmplifyReactGraphQL",
+  "policyUUID": "33c2656f",
+  "bucketName": "amplifyreactgraphqld020660bd46346c5ab5df3871f6f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
